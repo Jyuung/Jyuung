@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://github.com/Jyuung/Jyuung/assets/94826816/2a6b459f-c779-4e87-9aa9-7013df344040)
+
 <!--
 **Jyuung/Jyuung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
